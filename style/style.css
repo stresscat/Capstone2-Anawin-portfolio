@@ -1,3 +1,7 @@
+.body {
+    height: 100vh;
+}
+
 .hero {
     background-image: url('../image/hero-bg.png');
     background-repeat: no-repeat;
@@ -10,6 +14,31 @@
     height: 10rem;
     width: 10rem;
     border-radius: 50%;
+}
+
+.profile-pic-sq {
+    height: 15rem;
+    width: 15rem;
+    border-radius: 3rem;
+}
+
+.skill-icon{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 0.5rem;
+    color: white;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+.contact-icon {
+    color: #265073;
+    width: 3rem;
+}
+
+.make-outline {
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: #265073 0.2rem;
 }
 
 .introduce {
