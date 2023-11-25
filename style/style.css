@@ -1,0 +1,33 @@
+.hero {
+    background-image: url('../image/hero-bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.profile-pic {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+
+.introduce {
+    background-color: #265073;
+}
+
+.port-text {
+    color: #265073;
+}
+
+.str-font {
+    font-family: 'Vina Sans', sans-serif
+}
+
+.sec-font {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.ongate-font {
+    font-family: 'Archivo Black', sans-serif;
+}
